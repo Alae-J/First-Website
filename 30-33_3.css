@@ -1,0 +1,31 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+}
+.cover {
+    width: 400px;
+    list-style: none;
+}
+.block {
+    margin: 10px;
+    background-color: #EEE;
+    padding: 10px;
+}
+.inside-1 {
+    background-color: white;
+    margin: 4px 0px 4px -5px;
+    padding: 4px;
+    list-style: decimal;
+}
+.inside-2 {
+    background-color: white;
+    margin: 4px 0px 4px -5px;
+    padding: 4px;
+    list-style: upper-roman;
+}
+.inside-3 {
+    background-color: white;
+    margin: 4px 0px 4px -40px;
+    padding: 4px;
+    list-style-position: inside;
+}
